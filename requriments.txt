@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+unstructured
+selenium
+ragas 
+langchain 
+langchain-community 
+langchain-experimental 
+langchain-groq
+langchain-openai
